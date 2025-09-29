@@ -52,7 +52,7 @@ body {
   top: 0; /* Slide out */
 }
 .letter h1 {
-  font-family: "Amatic SC", cursive;
+  font-family: "Comic Sans MS", cursive, sans-serif;
   font-size: 36px;
   color: #65000b; /* rosewood */
   font-weight: bold;
@@ -62,7 +62,7 @@ body {
 }
 
 .letter p {
-  font-family: "Amatic SC", cursive;
+  font-family: "Comic Sans MS", cursive, sans-serif;
   font-size: 21px;
   color: #8b1c29; /* slightly softer rose */
   margin-top: 5px;
@@ -216,3 +216,4 @@ button:hover {
     padding: 12px 24px;
   }
 }
+
